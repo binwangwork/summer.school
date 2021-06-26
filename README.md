@@ -5,6 +5,7 @@
 
 课程的具体安排为：
 日期	|		内容	|  参考书目
+---|:--:|---:
 6月29日	早上	| 宏观|	一般均衡+kaldor事实+uzawa定理	1、Acemoglu 现代增长导论ch1-ch3,2、C.jones对美国和英国的典型化事实描述 3、一般均衡的部分进行简单的描述，部分参考mwg
 	下午	|劳动|	离散选择模型，probit和logit的一些统计性质推导	1、kc border的job search and job match；2、kenneth的discrete choice model里面的logit分布的性质
 	晚上|	计量	|概率和统计（主观概率和客观概率）	1、集中在客观概率，概率论基础（kc border的概统的头三讲）2、集合基数和级数累和（条件收敛、绝对收敛、柯西判定和完备性质）3、测度基础
