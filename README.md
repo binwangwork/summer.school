@@ -9,6 +9,8 @@
 
 讲义的下载地址为WPS：**[讲义](https://kdocs.cn/join/g66d195?f=101)**
 
+视频的观看地址为：**[视频](https://space.bilibili.com/273735/dynamic)**
+
 课程的具体安排为：
 * 6月29日	
    * 早上，宏观：	一般均衡+kaldor事实+uzawa定理	1、Acemoglu 现代增长导论ch1-ch3,2、C.jones对美国和英国的典型化事实描述 3、一般均衡的部分进行简单的描述，部分参考mwg
