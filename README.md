@@ -9,7 +9,7 @@
 
 讲义的下载地址为WPS：**[讲义](https://kdocs.cn/join/g66d195?f=101)**
 
-视频的观看地址为：**[视频](https://space.bilibili.com/273735/dynamic)**
+视频的观看地址为：**[宏观](https://www.bilibili.com/video/BV1TV411W7RF)**，**[区域和劳动](https://www.bilibili.com/video/BV1B64y1Q7rQ)**，**[计量](https://www.bilibili.com/video/BV12y4y1M737)**
 
 课程的具体安排为：
 * 6月29日	
