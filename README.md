@@ -7,7 +7,7 @@
 
 课程地点为**腾讯会议**，会议号为**680 6481 8622**。
 
-讲义的下载地址为WPS：**[讲义](https://kdocs.cn/join/g66d195?f=101)**
+讲义的下载地址为百度网盘：**[讲义](https://pan.baidu.com/s/1Z-Hd0MED5Nr2vaDBJJsB0g)**，提取码为: **68we** 
 
 视频的观看地址为：**[宏观](https://www.bilibili.com/video/BV1TV411W7RF)**，**[区域和劳动](https://www.bilibili.com/video/BV1B64y1Q7rQ)**，**[计量](https://www.bilibili.com/video/BV12y4y1M737)**
 
